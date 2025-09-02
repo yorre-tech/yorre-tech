@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello my real name is Yorre Saerens
 
-<!--
-**yorre-tech/yorre-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--tabel+hobbies-->
+## these are my hobbies
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|    Hobbies      |
+| ----------------|
+|   3D-printing   |
+| making 3D-prints|
+|   Gaming        |
+| game developing |
+
+ <!--foto-->
+ ## 3d printing
+ [![this is my hobby](https://images.pexels.com/photos/19124461/pexels-photo-19124461.jpeg)](https://github.com/yorre-tech)
+
+<!--richting + school-->
+
+## Studies
+* I'm studing on Spectrum Gent :+1:
+  * Aplicatie en Databeheer :smile:
+
+
+<!--oneliner met emoji-->
+## quotes
+
+> You have to fight to achieve your dream. You have to make sacrifices and work hard for it. (Messi)
+>
+> >Gaming is not a waste of time, it's an investment in happiness.
+> >
+> > > I don't need a therapist, I have gaming :+1:.
+
+
